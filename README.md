@@ -1,0 +1,5 @@
+The growing demand for sustainable and efficient transportation has accelerated the evolution of electric vehicles (EVs). However, conventional EVs depend heavily on external charging infrastructure, limiting their practicality and range. This project presents the innovative fabrication of a self-charging electric vehicle (SCEV) that harnesses multiple energy recovery systems to recharge its batteries autonomously during motion.
+
+The design integrates dynamo-based regenerative braking, piezoelectric energy harvesting from vibrations, and wireless energy transmission using a Tesla coil. Additionally, a dual-battery system with redox-based automatic switching ensures seamless energy flow and extended operational time. The vehicle is powered by a rear-wheel drive electric motor, and energy management is controlled through a smart switching circuit.
+
+This prototype demonstrates a practical step towards self-sustainable electric mobility, reducing reliance on external charging and maximizing onboard energy recovery. The project not only emphasizes innovative fabrication techniques but also explores the future of intelligent energy systems in electric vehicles.
